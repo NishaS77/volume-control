@@ -1,0 +1,20 @@
+# Hand Gesture Recognition for Volume Control
+
+This project demonstrates hand gesture recognition for volume control in Python using OpenCV, Mediapipe, and PyAutoGUI. It allows users to control their computer's audio settings by performing specific hand gestures.
+
+## Prerequisites
+
+Before running the code, you need to install the following Python libraries:
+
+- OpenCV
+- PyAutoGUI
+- Mediapipe
+
+You can install them using pip:
+
+```bash
+pip install opencv-python pyautogui mediapipe
+
+
+Run the Python script:
+main.py
